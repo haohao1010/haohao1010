@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/minghaohao/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=minghaohao&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/minghaohao/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=minghaohao&repo=convoychat" />
-</a>
+- 🔭 I’m currently studying at university.
+
+- 🌱 I’m currently learning the Go language.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minghaohao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
