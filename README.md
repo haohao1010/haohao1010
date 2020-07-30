@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/minghaohao/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=minghaohao&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/minghaohao/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=minghaohao&repo=convoychat" />
 </a>
