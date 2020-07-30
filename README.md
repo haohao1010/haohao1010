@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+
 - 🔭 I’m currently studying at university.
 
 - 🤔 I’m currently learning the Go language and the React Native framework.
