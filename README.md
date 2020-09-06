@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <br />
 
-- 🔭 I’m currently studying at university.
+- 🔭 I want to go to Mars.
 
-- 🤔 I’m currently learning the Go language and the React Native framework.
+- 🤔 I'm now trying to get started in the PL field.
 
 <br />
 
