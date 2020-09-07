@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - 🤔 I'm now trying to get started in the PL field.
 
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohao1010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
