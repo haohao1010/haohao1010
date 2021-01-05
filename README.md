@@ -1,7 +1,7 @@
 ### Hello World
 
 <!--
-**minghaohao/minghaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haohao1010/haohao1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I want to go to Mars.
 
-- 🤔 I'm now trying to get started in the PL field.
+- 🌱 I'm now trying to get started in the PL field.
+
+- ⚡  Student, rookie.
 
 <br />
