@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-- 🔭 I want to go to Mars.
+- 🔭 Astrophysics fan.
 
 - 🌱 I'm now trying to get started in the PL field.
 
